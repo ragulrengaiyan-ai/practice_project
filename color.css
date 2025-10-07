@@ -1,0 +1,5 @@
+body::after {
+    content: " - Edited by Ragul";
+    color: red;
+    font-weight: bold;
+}
